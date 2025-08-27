@@ -55,3 +55,5 @@
 ### Задание 4. Filebeat. 
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
+
+<img src = "img/image.png">
